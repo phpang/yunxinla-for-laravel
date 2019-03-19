@@ -1,0 +1,10 @@
+{
+    "name": "phpang/yunxinla-for-laravel",
+    "authors": [
+        {
+            "name": "phpang",
+            "email": "623163@qq.com"
+        }
+    ],
+    "require": {}
+}
